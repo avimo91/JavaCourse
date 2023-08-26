@@ -29,3 +29,7 @@ bin/
 .DS_Store
 /JavaProgrammingCourse.iml
 /.idea/.name
+/.idea/misc.xml
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/vcs.xml
